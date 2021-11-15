@@ -9,3 +9,5 @@ open terminal and type these to install
 ```python
 pip install -r /path/to/requirements.txt
 ```
+## Errors 
+if there is an error with **dlib** module 
