@@ -21,3 +21,6 @@ Change this line of code as shown above to enroll a person in data
 ## How to recognize a person
 <img src="https://i.ibb.co/gMhfsk9/to-reco.gif" alt="to-reco" border="0">
 Change this line of code as shown above to recognize a person in data
+
+## creating the JSON file
+Goto this [link](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjfsLf3hMr0AhXrkmYCHcltB0QYABAAGgJzbQ&ohost=www.google.com&cid=CAESQOD2dCGukhuQTdTf8aT1dmVg9O8mhhwuMKxbP7d6RzE5iIgWN3H5_C5a3AQ7Pb0zxjxTQTM-UK96N0wMdzZBJF0&sig=AOD64_3lmlg7M-FlenKawXzgVAVoeYEYQg&q&adurl&ved=2ahUKEwjvya73hMr0AhX6wjgGHTRPBkMQ0Qx6BAgCEAE)
