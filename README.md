@@ -16,5 +16,6 @@ if there is an error with **dlib** module
 [Download form here](https://github.com/just-innovative-bro/Face-Recognition-Attendance/raw/main/dlib-19.22.99-cp39-cp39-win_amd64.whl) 
 ## How to enroll a person
 <img src="https://i.ibb.co/dBbsxzD/to-enroll.gif" alt="to-enroll" border="0">
+
 ## How to recognize a person
 <img src="https://i.ibb.co/gMhfsk9/to-reco.gif" alt="to-reco" border="0">
