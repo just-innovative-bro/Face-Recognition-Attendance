@@ -14,3 +14,5 @@ pip install -r /path/to/requirements.txt
 ## Errors 
 if there is an error with **dlib** module 
 [Download form here](https://github.com/just-innovative-bro/Face-Recognition-Attendance/raw/main/dlib-19.22.99-cp39-cp39-win_amd64.whl) 
+## How to enroll a person
+<p align="center"><img src="https://ibb.co/p2W659d"></p>
