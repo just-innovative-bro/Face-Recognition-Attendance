@@ -26,10 +26,4 @@ Change this line of code as shown above to recognize a person in data
 Goto this [link](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjfsLf3hMr0AhXrkmYCHcltB0QYABAAGgJzbQ&ohost=www.google.com&cid=CAESQOD2dCGukhuQTdTf8aT1dmVg9O8mhhwuMKxbP7d6RzE5iIgWN3H5_C5a3AQ7Pb0zxjxTQTM-UK96N0wMdzZBJF0&sig=AOD64_3lmlg7M-FlenKawXzgVAVoeYEYQg&q&adurl&ved=2ahUKEwjvya73hMr0AhX6wjgGHTRPBkMQ0Qx6BAgCEAE)
 and then follow the below
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=STgnA16SDQQ" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=STgnA16SDQQ"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=STgnA16SDQQ/0.jpg)](https://www.youtube.com/watch?v=STgnA16SDQQ)
