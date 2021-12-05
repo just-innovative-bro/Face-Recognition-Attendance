@@ -1,5 +1,5 @@
 # Face-Recognition-Attendance
-By using Python & Opencv 
+By using Python 3.9.7 & Opencv 
 ## Working
 The face will recognition from data stored in hard disk and the attendence is recorded in google sheets.
 ## Installing package required
