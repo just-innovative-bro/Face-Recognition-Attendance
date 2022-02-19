@@ -14,8 +14,8 @@ def load_facial_encodings_and_names_from_memory():
 		known_face_names.append(filename[:-4])
 		with open (facial_encodings_folder+filename, 'rb') as fp:
 			known_face_encodings.append(pickle.load(fp)[0])
-            
-            
+
+
 def run_recognition():
 
 
@@ -97,12 +97,12 @@ def run_recognition():
 
     # Hit 'q' on the keyboard to quit!
 
-    
+
          if cv2.waitKey(1) & 0xFF==ord('q') or flag==0:
          	spreadsheet.write_to_sheet(face_names[0])
          	break
-        
-            
+
+
 
 # Release handle to the webcam
      video_capture.release()
