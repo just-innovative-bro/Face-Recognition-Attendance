@@ -15,7 +15,7 @@ def email_pin(email,pin):
     text="\nYour pin for attendance app is "+str(pin)
 
     message ='Subject: {}\n\n{}'.format(subject, text)
-    
+
 
     context = ssl.create_default_context()
 
@@ -36,7 +36,7 @@ def send_email(receiver_mail,attendance):
     text="\nYour attendance is marked "+attendance
 
     message ='Subject: {}\n\n{}'.format(subject, text)
-    
+
 
     context = ssl.create_default_context()
 
