@@ -1,7 +1,7 @@
 import smtplib, ssl,datetime
 
-sender= "blynkofzameel@gmail.com"     #senders email id
-password="Blynk123"                #password
+sender= "yourmail@gmail.com"     #senders email id
+password="yourpassword"                #password
 
 
 
